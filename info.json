@@ -1,59 +1,271 @@
 {
     "available_space": true,
-    "total_size": 783.4897000000001,
-    "videos": [
-        "ZIRROSIS  EXCREMENTO DEL BIENESTAR-SZ28o5Y0Kc4.mp4",
-        "zz top - bad to  the bone-p6tvmzfyaT4.mp4",
-        "ZIRROSIS   VERGONZOSA IMPUNIDAD-63x7rveTdDo.mp4",
-        "Alton Ellis  why Birds follow spring subtitulado español-F70oXOOUv0I.mp4",
-        "Attaque 77 - Hay Una Bomba En El Colegio (Con Letra)-FKy6RApTHug.mp4",
-        "ALASKA Y DINARAMA - Perlas ensangrentadas-Rgmmo3IfNYQ.mp4",
-        "Zirrosis   Eso que llaman politica-ZQ9zlZi35h4.mp4",
-        "Zara Larsson - Lush Life-tD4HCZe-tew.mp4",
-        "Liszt, Hungarian Rhapsody No.6, Martha Argerich 1966-LhInwkq4nAw.mp4",
-        "Tempo Rubato   Don't Stop The Classics 1985-l7b7M6BOjiM.mp4",
-        "Give Life Back to Music-zKSsP2084nU.mp4",
-        "Barricada- Balas blancas-bkt19-VYSRg.mp4",
-        "LE DIFERENCE - MYSTERIA-nqoAb6SkTZw.mp4",
-        "Zirrosis - El viciosillo-7nJVsvvqDlg.mp4",
-        "Gabinete Caligari - La culpa fue del cha cha cha (Videoclip Oficial)-cozRkjztWBQ.mp4",
-        "Secret Service — 'Night City' (OFFICIAL VIDEO, 1985)-jGg9J-Hi88U.mp4",
-        "Laid Back - Uptimistic Music (Original Mix)-xJHK_55_aJ8.mp4",
-        "ZIRROSIS  CLEMEN EL PUTERO-rf_9WChDn5E.mp4",
-        "Giorgio Moroder & Donna Summer - Top of the Pops (1977)-0zhHnf-yTng.mp4",
-        "TELEX CLOCHES ET SIFFLETS-EkICI8ynQL4.mp4",
-        "Secret Service — Let Us Dance Just a Little Bit More (OFFICIAL VIDEO, 1985)-PiqNhmY3Wd0.mp4",
-        "Fugazi - 13 Songs (Full Album)-B2RyoRG2vs8.mp4",
-        "I Think I Need a New Heart-8TAlvftvH4s.mp4",
-        "Tatsuro Yamashita - Funky Flushin' (1982)-kE71irRG9Aw.mp4",
-        "Ken Boothe - Mr Rock Steady (Full Album 1968)-XDqcYhMdE24.mp4",
-        "ANTONIO VEGA - TUVE QUE CORRER-CH8gV_zhEQ4.mp4",
-        "[Zeljko Straka] Vivaldi - Concerto for Strings in G, 'Alla Rustica'-h6KsRRhoqKM.mp4",
-        "Zombie - The Cranberries-BtV1-gJ_bm0.mp4",
-        "Secret Service — When the Night Closes In (TVRip, 1985)-oWlpkt3EjD8.mp4",
-        "Acabaremos mal-IWZWKEP5jOw.mp4",
-        "It Began in Afrika - The Chemical Brothers-7AnCApUC42E.mp4",
-        "Subsistencia - La Papa Liberada-eDw7QxWBw8M.mp4",
-        "The 5th Dimension   Age of Aquarius 1969-kjxSCAalsBE.mp4",
-        "Black Pumas - Colors (Official Live Session)-0G383538qzQ.mp4",
-        "Alaska y Dinarama - Ni tú ni nadie-Hq_05YpTOcY.mp4",
-        "Aquarius-AKkHagHlqD4.mp4",
-        "BARRICADA ROJO TVE A TOPE 1988-ku28kFee30o.mp4",
-        "Secret Service — Do It (OFFICIAL VIDEO, 1984)-yVvp4eKolig.mp4",
-        "Aunque tú no lo sepas - Enrique Urquijo - Quique  Gonzalez - Cover by Lestat y Juan-0U26gGn2MsQ.mp4",
-        "BARRICADA - 'No hay tregua' en Plastic (TVE)-hzvEVBmDeNU.mp4",
-        "Zoé - Bésame Mucho-CSELNSslBVk.mp4",
-        "Il Cielo In Una Stanza - Mina _ Sub. Español-zTjwHYmOd2w.mp4",
-        "Antonio Vega - Oceáno de Sol-Nw2my6ju9EM.mp4",
-        "Los Destellos - Onsta la yerbita-f-_xgHGQJNQ.mp4",
-        "Bluebird (B-Side)-fb9R_cvwKSU.mp4",
-        "Secret Service — L.A. Goodbye (OFFICIAL VIDEO, 1981)-XFz8lw4bKLw.mp4",
-        "Zirrosis - Mesias de la estupidez-WLSDAw1AAXk.mp4",
-        "Telex - 04 - 1982 - Birds and Bees [full album]-mehWW60OICo.mp4",
-        "Serrat _ Cada Loco Con Su Tema _ 1983 (Álbum Completo_Full)-wZTvYjLmVyk.mp4",
-        "Control Machete - El Camino-KjicTXc5SGs.mp4",
-        "Asfalto - La generación perdida-zTGTooyhAmA.mp4",
-        "ZIRROSIS  PRESOS DEL CAPITAL-xwm9eCQ2izA.mp4",
-        "ZIRROSIS  EL VIRUS DE LOS DEMAS-4zwxtxuuuzc.mp4"
-    ]
+    "files": [
+        {
+            "name": "ZIRROSIS  EXCREMENTO DEL BIENESTAR-SZ28o5Y0Kc4.mp4",
+            "path": "music_z/videos/ZIRROSIS  EXCREMENTO DEL BIENESTAR-SZ28o5Y0Kc4.mp4",
+            "size": 3.497711616
+        },
+        {
+            "name": "zz top - bad to  the bone-p6tvmzfyaT4.mp4",
+            "path": "music_z/videos/zz top - bad to  the bone-p6tvmzfyaT4.mp4",
+            "size": 10.509984768
+        },
+        {
+            "name": "ZIRROSIS   VERGONZOSA IMPUNIDAD-63x7rveTdDo.mp4",
+            "path": "music_z/videos/ZIRROSIS   VERGONZOSA IMPUNIDAD-63x7rveTdDo.mp4",
+            "size": 4.2480332800000005
+        },
+        {
+            "name": "Alton Ellis  why Birds follow spring subtitulado español-F70oXOOUv0I.mp4",
+            "path": "music_z/videos/Alton Ellis  why Birds follow spring subtitulado español-F70oXOOUv0I.mp4",
+            "size": 4.56497152
+        },
+        {
+            "name": "Attaque 77 - Hay Una Bomba En El Colegio (Con Letra)-FKy6RApTHug.mp4",
+            "path": "music_z/videos/Attaque 77 - Hay Una Bomba En El Colegio (Con Letra)-FKy6RApTHug.mp4",
+            "size": 5.774089216
+        },
+        {
+            "name": "ALASKA Y DINARAMA - Perlas ensangrentadas-Rgmmo3IfNYQ.mp4",
+            "path": "music_z/videos/ALASKA Y DINARAMA - Perlas ensangrentadas-Rgmmo3IfNYQ.mp4",
+            "size": 10.232923136
+        },
+        {
+            "name": "Zirrosis   Eso que llaman politica-ZQ9zlZi35h4.mp4",
+            "path": "music_z/videos/Zirrosis   Eso que llaman politica-ZQ9zlZi35h4.mp4",
+            "size": 11.732212736000001
+        },
+        {
+            "name": "Zara Larsson - Lush Life-tD4HCZe-tew.mp4",
+            "path": "music_z/videos/Zara Larsson - Lush Life-tD4HCZe-tew.mp4",
+            "size": 14.245056512000001
+        },
+        {
+            "name": "Liszt, Hungarian Rhapsody No.6, Martha Argerich 1966-LhInwkq4nAw.mp4",
+            "path": "music_z/videos/Liszt, Hungarian Rhapsody No.6, Martha Argerich 1966-LhInwkq4nAw.mp4",
+            "size": 20.5213696
+        },
+        {
+            "name": "Tempo Rubato   Don't Stop The Classics 1985-l7b7M6BOjiM.mp4",
+            "path": "music_z/videos/Tempo Rubato   Don't Stop The Classics 1985-l7b7M6BOjiM.mp4",
+            "size": 21.159819264000003
+        },
+        {
+            "name": "Give Life Back to Music-zKSsP2084nU.mp4",
+            "path": "music_z/videos/Give Life Back to Music-zKSsP2084nU.mp4",
+            "size": 4.556391424
+        },
+        {
+            "name": "Barricada- Balas blancas-bkt19-VYSRg.mp4",
+            "path": "music_z/videos/Barricada- Balas blancas-bkt19-VYSRg.mp4",
+            "size": 23.432175616000002
+        },
+        {
+            "name": "LE DIFERENCE - MYSTERIA-nqoAb6SkTZw.mp4",
+            "path": "music_z/videos/LE DIFERENCE - MYSTERIA-nqoAb6SkTZw.mp4",
+            "size": 21.788386304000003
+        },
+        {
+            "name": "Zirrosis - El viciosillo-7nJVsvvqDlg.mp4",
+            "path": "music_z/videos/Zirrosis - El viciosillo-7nJVsvvqDlg.mp4",
+            "size": 9.332849664000001
+        },
+        {
+            "name": "Gabinete Caligari - La culpa fue del cha cha cha (Videoclip Oficial)-cozRkjztWBQ.mp4",
+            "path": "music_z/videos/Gabinete Caligari - La culpa fue del cha cha cha (Videoclip Oficial)-cozRkjztWBQ.mp4",
+            "size": 18.653515776000003
+        },
+        {
+            "name": "Secret Service — 'Night City' (OFFICIAL VIDEO, 1985)-jGg9J-Hi88U.mp4",
+            "path": "music_z/videos/Secret Service — 'Night City' (OFFICIAL VIDEO, 1985)-jGg9J-Hi88U.mp4",
+            "size": 13.319950336000002
+        },
+        {
+            "name": "Laid Back - Uptimistic Music (Original Mix)-xJHK_55_aJ8.mp4",
+            "path": "music_z/videos/Laid Back - Uptimistic Music (Original Mix)-xJHK_55_aJ8.mp4",
+            "size": 7.999460352000001
+        },
+        {
+            "name": "ZIRROSIS  CLEMEN EL PUTERO-rf_9WChDn5E.mp4",
+            "path": "music_z/videos/ZIRROSIS  CLEMEN EL PUTERO-rf_9WChDn5E.mp4",
+            "size": 5.161993216
+        },
+        {
+            "name": "Giorgio Moroder & Donna Summer - Top of the Pops (1977)-0zhHnf-yTng.mp4",
+            "path": "music_z/videos/Giorgio Moroder & Donna Summer - Top of the Pops (1977)-0zhHnf-yTng.mp4",
+            "size": 31.266713600000003
+        },
+        {
+            "name": "TELEX CLOCHES ET SIFFLETS-EkICI8ynQL4.mp4",
+            "path": "music_z/videos/TELEX CLOCHES ET SIFFLETS-EkICI8ynQL4.mp4",
+            "size": 9.569781760000001
+        },
+        {
+            "name": "Secret Service — Let Us Dance Just a Little Bit More (OFFICIAL VIDEO, 1985)-PiqNhmY3Wd0.mp4",
+            "path": "music_z/videos/Secret Service — Let Us Dance Just a Little Bit More (OFFICIAL VIDEO, 1985)-PiqNhmY3Wd0.mp4",
+            "size": 13.74106624
+        },
+        {
+            "name": "Fugazi - 13 Songs (Full Album)-B2RyoRG2vs8.mp4",
+            "path": "music_z/videos/Fugazi - 13 Songs (Full Album)-B2RyoRG2vs8.mp4",
+            "size": 37.240806400000004
+        },
+        {
+            "name": "I Think I Need a New Heart-8TAlvftvH4s.mp4",
+            "path": "music_z/videos/I Think I Need a New Heart-8TAlvftvH4s.mp4",
+            "size": 2.450141184
+        },
+        {
+            "name": "Tatsuro Yamashita - Funky Flushin' (1982)-kE71irRG9Aw.mp4",
+            "path": "music_z/videos/Tatsuro Yamashita - Funky Flushin' (1982)-kE71irRG9Aw.mp4",
+            "size": 5.021840384
+        },
+        {
+            "name": "Ken Boothe - Mr Rock Steady (Full Album 1968)-XDqcYhMdE24.mp4",
+            "path": "music_z/videos/Ken Boothe - Mr Rock Steady (Full Album 1968)-XDqcYhMdE24.mp4",
+            "size": 47.709710336
+        },
+        {
+            "name": "ANTONIO VEGA - TUVE QUE CORRER-CH8gV_zhEQ4.mp4",
+            "path": "music_z/videos/ANTONIO VEGA - TUVE QUE CORRER-CH8gV_zhEQ4.mp4",
+            "size": 13.724659712000001
+        },
+        {
+            "name": "[Zeljko Straka] Vivaldi - Concerto for Strings in G, 'Alla Rustica'-h6KsRRhoqKM.mp4",
+            "path": "music_z/videos/[Zeljko Straka] Vivaldi - Concerto for Strings in G, 'Alla Rustica'-h6KsRRhoqKM.mp4",
+            "size": 9.003776
+        },
+        {
+            "name": "Zombie - The Cranberries-BtV1-gJ_bm0.mp4",
+            "path": "music_z/videos/Zombie - The Cranberries-BtV1-gJ_bm0.mp4",
+            "size": 16.455334912
+        },
+        {
+            "name": "Secret Service — When the Night Closes In (TVRip, 1985)-oWlpkt3EjD8.mp4",
+            "path": "music_z/videos/Secret Service — When the Night Closes In (TVRip, 1985)-oWlpkt3EjD8.mp4",
+            "size": 20.566145024
+        },
+        {
+            "name": "Acabaremos mal-IWZWKEP5jOw.mp4",
+            "path": "music_z/videos/Acabaremos mal-IWZWKEP5jOw.mp4",
+            "size": 3.2112977920000003
+        },
+        {
+            "name": "It Began in Afrika - The Chemical Brothers-7AnCApUC42E.mp4",
+            "path": "music_z/videos/It Began in Afrika - The Chemical Brothers-7AnCApUC42E.mp4",
+            "size": 13.514437632000002
+        },
+        {
+            "name": "Subsistencia - La Papa Liberada-eDw7QxWBw8M.mp4",
+            "path": "music_z/videos/Subsistencia - La Papa Liberada-eDw7QxWBw8M.mp4",
+            "size": 11.492336640000001
+        },
+        {
+            "name": "The 5th Dimension   Age of Aquarius 1969-kjxSCAalsBE.mp4",
+            "path": "music_z/videos/The 5th Dimension   Age of Aquarius 1969-kjxSCAalsBE.mp4",
+            "size": 12.786148352000001
+        },
+        {
+            "name": "Black Pumas - Colors (Official Live Session)-0G383538qzQ.mp4",
+            "path": "music_z/videos/Black Pumas - Colors (Official Live Session)-0G383538qzQ.mp4",
+            "size": 19.3522432
+        },
+        {
+            "name": "Alaska y Dinarama - Ni tú ni nadie-Hq_05YpTOcY.mp4",
+            "path": "music_z/videos/Alaska y Dinarama - Ni tú ni nadie-Hq_05YpTOcY.mp4",
+            "size": 14.574296064
+        },
+        {
+            "name": "Aquarius-AKkHagHlqD4.mp4",
+            "path": "music_z/videos/Aquarius-AKkHagHlqD4.mp4",
+            "size": 3.214721024
+        },
+        {
+            "name": "BARRICADA ROJO TVE A TOPE 1988-ku28kFee30o.mp4",
+            "path": "music_z/videos/BARRICADA ROJO TVE A TOPE 1988-ku28kFee30o.mp4",
+            "size": 16.676882432
+        },
+        {
+            "name": "Secret Service — Do It (OFFICIAL VIDEO, 1984)-yVvp4eKolig.mp4",
+            "path": "music_z/videos/Secret Service — Do It (OFFICIAL VIDEO, 1984)-yVvp4eKolig.mp4",
+            "size": 13.67657984
+        },
+        {
+            "name": "Aunque tú no lo sepas - Enrique Urquijo - Quique  Gonzalez - Cover by Lestat y Juan-0U26gGn2MsQ.mp4",
+            "path": "music_z/videos/Aunque tú no lo sepas - Enrique Urquijo - Quique  Gonzalez - Cover by Lestat y Juan-0U26gGn2MsQ.mp4",
+            "size": 2.1563473920000003
+        },
+        {
+            "name": "BARRICADA - 'No hay tregua' en Plastic (TVE)-hzvEVBmDeNU.mp4",
+            "path": "music_z/videos/BARRICADA - 'No hay tregua' en Plastic (TVE)-hzvEVBmDeNU.mp4",
+            "size": 10.489924608
+        },
+        {
+            "name": "Zoé - Bésame Mucho-CSELNSslBVk.mp4",
+            "path": "music_z/videos/Zoé - Bésame Mucho-CSELNSslBVk.mp4",
+            "size": 26.601995264000003
+        },
+        {
+            "name": "Il Cielo In Una Stanza - Mina _ Sub. Español-zTjwHYmOd2w.mp4",
+            "path": "music_z/videos/Il Cielo In Una Stanza - Mina _ Sub. Español-zTjwHYmOd2w.mp4",
+            "size": 7.72507136
+        },
+        {
+            "name": "Antonio Vega - Oceáno de Sol-Nw2my6ju9EM.mp4",
+            "path": "music_z/videos/Antonio Vega - Oceáno de Sol-Nw2my6ju9EM.mp4",
+            "size": 12.836857856
+        },
+        {
+            "name": "Los Destellos - Onsta la yerbita-f-_xgHGQJNQ.mp4",
+            "path": "music_z/videos/Los Destellos - Onsta la yerbita-f-_xgHGQJNQ.mp4",
+            "size": 13.736817664
+        },
+        {
+            "name": "Bluebird (B-Side)-fb9R_cvwKSU.mp4",
+            "path": "music_z/videos/Bluebird (B-Side)-fb9R_cvwKSU.mp4",
+            "size": 3.557849088
+        },
+        {
+            "name": "Secret Service — L.A. Goodbye (OFFICIAL VIDEO, 1981)-XFz8lw4bKLw.mp4",
+            "path": "music_z/videos/Secret Service — L.A. Goodbye (OFFICIAL VIDEO, 1981)-XFz8lw4bKLw.mp4",
+            "size": 14.25051136
+        },
+        {
+            "name": "Zirrosis - Mesias de la estupidez-WLSDAw1AAXk.mp4",
+            "path": "music_z/videos/Zirrosis - Mesias de la estupidez-WLSDAw1AAXk.mp4",
+            "size": 7.745956864
+        },
+        {
+            "name": "Telex - 04 - 1982 - Birds and Bees [full album]-mehWW60OICo.mp4",
+            "path": "music_z/videos/Telex - 04 - 1982 - Birds and Bees [full album]-mehWW60OICo.mp4",
+            "size": 48.592030720000004
+        },
+        {
+            "name": "Serrat _ Cada Loco Con Su Tema _ 1983 (Álbum Completo_Full)-wZTvYjLmVyk.mp4",
+            "path": "music_z/videos/Serrat _ Cada Loco Con Su Tema _ 1983 (Álbum Completo_Full)-wZTvYjLmVyk.mp4",
+            "size": 46.267267072
+        },
+        {
+            "name": "Control Machete - El Camino-KjicTXc5SGs.mp4",
+            "path": "music_z/videos/Control Machete - El Camino-KjicTXc5SGs.mp4",
+            "size": 27.769432064
+        },
+        {
+            "name": "Asfalto - La generación perdida-zTGTooyhAmA.mp4",
+            "path": "music_z/videos/Asfalto - La generación perdida-zTGTooyhAmA.mp4",
+            "size": 26.45504
+        },
+        {
+            "name": "ZIRROSIS  PRESOS DEL CAPITAL-xwm9eCQ2izA.mp4",
+            "path": "music_z/videos/ZIRROSIS  PRESOS DEL CAPITAL-xwm9eCQ2izA.mp4",
+            "size": 4.736735232
+        },
+        {
+            "name": "ZIRROSIS  EL VIRUS DE LOS DEMAS-4zwxtxuuuzc.mp4",
+            "path": "music_z/videos/ZIRROSIS  EL VIRUS DE LOS DEMAS-4zwxtxuuuzc.mp4",
+            "size": 4.588275712000001
+        }
+    ],
+    "total_size": 783.4899251200004
 }
