@@ -1,326 +1,391 @@
 {
     "available_space": false,
-    "files": [
+    "content": [
         {
             "name": "Zara Larsson - Lush Life-tD4HCZe-tew.mp4",
-            "path": "music_z/videos/Zara Larsson - Lush Life-tD4HCZe-tew.mp4",
-            "size": 14.245056512000001
+            "path": "z/videos/Zara Larsson - Lush Life-tD4HCZe-tew.mp4",
+            "size": 14.245056512000001,
+            "url": "https://github.com/circuitalmynds/music_z/blob/main/videos/Zara Larsson - Lush Life-tD4HCZe-tew.mp4?raw=true"
         },
         {
             "name": "Tempo Rubato   Don't Stop The Classics 1985-l7b7M6BOjiM.mp4",
-            "path": "music_z/videos/Tempo Rubato   Don't Stop The Classics 1985-l7b7M6BOjiM.mp4",
-            "size": 21.159819264000003
+            "path": "z/videos/Tempo Rubato   Don't Stop The Classics 1985-l7b7M6BOjiM.mp4",
+            "size": 21.159819264000003,
+            "url": "https://github.com/circuitalmynds/music_z/blob/main/videos/Tempo Rubato   Don't Stop The Classics 1985-l7b7M6BOjiM.mp4?raw=true"
         },
         {
             "name": "BARRICADA - 'No hay tregua' en Plastic (TVE)-hzvEVBmDeNU.mp4",
-            "path": "music_z/videos/BARRICADA - 'No hay tregua' en Plastic (TVE)-hzvEVBmDeNU.mp4",
-            "size": 10.489924608
+            "path": "z/videos/BARRICADA - 'No hay tregua' en Plastic (TVE)-hzvEVBmDeNU.mp4",
+            "size": 10.489924608,
+            "url": "https://github.com/circuitalmynds/music_z/blob/main/videos/BARRICADA - 'No hay tregua' en Plastic (TVE)-hzvEVBmDeNU.mp4?raw=true"
         },
         {
             "name": "Ken Boothe - Mr Rock Steady (Full Album 1968)-XDqcYhMdE24.mp4",
-            "path": "music_z/videos/Ken Boothe - Mr Rock Steady (Full Album 1968)-XDqcYhMdE24.mp4",
-            "size": 47.709710336
+            "path": "z/videos/Ken Boothe - Mr Rock Steady (Full Album 1968)-XDqcYhMdE24.mp4",
+            "size": 47.709710336,
+            "url": "https://github.com/circuitalmynds/music_z/blob/main/videos/Ken Boothe - Mr Rock Steady (Full Album 1968)-XDqcYhMdE24.mp4?raw=true"
         },
         {
             "name": "Zirrosis - Mesias de la estupidez-WLSDAw1AAXk.mp4",
-            "path": "music_z/videos/Zirrosis - Mesias de la estupidez-WLSDAw1AAXk.mp4",
-            "size": 7.745956864
+            "path": "z/videos/Zirrosis - Mesias de la estupidez-WLSDAw1AAXk.mp4",
+            "size": 7.745956864,
+            "url": "https://github.com/circuitalmynds/music_z/blob/main/videos/Zirrosis - Mesias de la estupidez-WLSDAw1AAXk.mp4?raw=true"
         },
         {
             "name": "Zombie - The Cranberries-BtV1-gJ_bm0.mp4",
-            "path": "music_z/videos/Zombie - The Cranberries-BtV1-gJ_bm0.mp4",
-            "size": 16.455334912
+            "path": "z/videos/Zombie - The Cranberries-BtV1-gJ_bm0.mp4",
+            "size": 16.455334912,
+            "url": "https://github.com/circuitalmynds/music_z/blob/main/videos/Zombie - The Cranberries-BtV1-gJ_bm0.mp4?raw=true"
         },
         {
             "name": "Control Machete - El Camino-KjicTXc5SGs.mp4",
-            "path": "music_z/videos/Control Machete - El Camino-KjicTXc5SGs.mp4",
-            "size": 27.769432064
+            "path": "z/videos/Control Machete - El Camino-KjicTXc5SGs.mp4",
+            "size": 27.769432064,
+            "url": "https://github.com/circuitalmynds/music_z/blob/main/videos/Control Machete - El Camino-KjicTXc5SGs.mp4?raw=true"
         },
         {
             "name": "[Zeljko Straka] Vivaldi - Concerto for Strings in G, 'Alla Rustica'-h6KsRRhoqKM.mp4",
-            "path": "music_z/videos/[Zeljko Straka] Vivaldi - Concerto for Strings in G, 'Alla Rustica'-h6KsRRhoqKM.mp4",
-            "size": 9.003776
+            "path": "z/videos/[Zeljko Straka] Vivaldi - Concerto for Strings in G, 'Alla Rustica'-h6KsRRhoqKM.mp4",
+            "size": 9.003776,
+            "url": "https://github.com/circuitalmynds/music_z/blob/main/videos/[Zeljko Straka] Vivaldi - Concerto for Strings in G, 'Alla Rustica'-h6KsRRhoqKM.mp4?raw=true"
         },
         {
             "name": "Fugazi - 13 Songs (Full Album)-B2RyoRG2vs8.mp4",
-            "path": "music_z/videos/Fugazi - 13 Songs (Full Album)-B2RyoRG2vs8.mp4",
-            "size": 37.240806400000004
+            "path": "z/videos/Fugazi - 13 Songs (Full Album)-B2RyoRG2vs8.mp4",
+            "size": 37.240806400000004,
+            "url": "https://github.com/circuitalmynds/music_z/blob/main/videos/Fugazi - 13 Songs (Full Album)-B2RyoRG2vs8.mp4?raw=true"
         },
         {
             "name": "Acabaremos mal-IWZWKEP5jOw.mp4",
-            "path": "music_z/videos/Acabaremos mal-IWZWKEP5jOw.mp4",
-            "size": 3.2112977920000003
+            "path": "z/videos/Acabaremos mal-IWZWKEP5jOw.mp4",
+            "size": 3.2112977920000003,
+            "url": "https://github.com/circuitalmynds/music_z/blob/main/videos/Acabaremos mal-IWZWKEP5jOw.mp4?raw=true"
         },
         {
             "name": "BARRICADA ROJO TVE A TOPE 1988-ku28kFee30o.mp4",
-            "path": "music_z/videos/BARRICADA ROJO TVE A TOPE 1988-ku28kFee30o.mp4",
-            "size": 16.676882432
+            "path": "z/videos/BARRICADA ROJO TVE A TOPE 1988-ku28kFee30o.mp4",
+            "size": 16.676882432,
+            "url": "https://github.com/circuitalmynds/music_z/blob/main/videos/BARRICADA ROJO TVE A TOPE 1988-ku28kFee30o.mp4?raw=true"
         },
         {
             "name": "Aquarius-AKkHagHlqD4.mp4",
-            "path": "music_z/videos/Aquarius-AKkHagHlqD4.mp4",
-            "size": 3.214721024
+            "path": "z/videos/Aquarius-AKkHagHlqD4.mp4",
+            "size": 3.214721024,
+            "url": "https://github.com/circuitalmynds/music_z/blob/main/videos/Aquarius-AKkHagHlqD4.mp4?raw=true"
         },
         {
             "name": "Gabinete Caligari - La culpa fue del cha cha cha (Videoclip Oficial)-cozRkjztWBQ.mp4",
-            "path": "music_z/videos/Gabinete Caligari - La culpa fue del cha cha cha (Videoclip Oficial)-cozRkjztWBQ.mp4",
-            "size": 18.653515776000003
+            "path": "z/videos/Gabinete Caligari - La culpa fue del cha cha cha (Videoclip Oficial)-cozRkjztWBQ.mp4",
+            "size": 18.653515776000003,
+            "url": "https://github.com/circuitalmynds/music_z/blob/main/videos/Gabinete Caligari - La culpa fue del cha cha cha (Videoclip Oficial)-cozRkjztWBQ.mp4?raw=true"
         },
         {
             "name": "Give Life Back to Music-zKSsP2084nU.mp4",
-            "path": "music_z/videos/Give Life Back to Music-zKSsP2084nU.mp4",
-            "size": 4.556391424
+            "path": "z/videos/Give Life Back to Music-zKSsP2084nU.mp4",
+            "size": 4.556391424,
+            "url": "https://github.com/circuitalmynds/music_z/blob/main/videos/Give Life Back to Music-zKSsP2084nU.mp4?raw=true"
         },
         {
             "name": "ZIRROSIS  EL VIRUS DE LOS DEMAS-4zwxtxuuuzc.mp4",
-            "path": "music_z/videos/ZIRROSIS  EL VIRUS DE LOS DEMAS-4zwxtxuuuzc.mp4",
-            "size": 4.588275712000001
+            "path": "z/videos/ZIRROSIS  EL VIRUS DE LOS DEMAS-4zwxtxuuuzc.mp4",
+            "size": 4.588275712000001,
+            "url": "https://github.com/circuitalmynds/music_z/blob/main/videos/ZIRROSIS  EL VIRUS DE LOS DEMAS-4zwxtxuuuzc.mp4?raw=true"
         },
         {
             "name": "ANTONIO VEGA - TUVE QUE CORRER-CH8gV_zhEQ4.mp4",
-            "path": "music_z/videos/ANTONIO VEGA - TUVE QUE CORRER-CH8gV_zhEQ4.mp4",
-            "size": 13.724659712000001
+            "path": "z/videos/ANTONIO VEGA - TUVE QUE CORRER-CH8gV_zhEQ4.mp4",
+            "size": 13.724659712000001,
+            "url": "https://github.com/circuitalmynds/music_z/blob/main/videos/ANTONIO VEGA - TUVE QUE CORRER-CH8gV_zhEQ4.mp4?raw=true"
         },
         {
             "name": "Alaska y Dinarama - Ni tú ni nadie-Hq_05YpTOcY.mp4",
-            "path": "music_z/videos/Alaska y Dinarama - Ni tú ni nadie-Hq_05YpTOcY.mp4",
-            "size": 14.574296064
+            "path": "z/videos/Alaska y Dinarama - Ni tú ni nadie-Hq_05YpTOcY.mp4",
+            "size": 14.574296064,
+            "url": "https://github.com/circuitalmynds/music_z/blob/main/videos/Alaska y Dinarama - Ni tú ni nadie-Hq_05YpTOcY.mp4?raw=true"
         },
         {
             "name": "ZIRROSIS  PRESOS DEL CAPITAL-xwm9eCQ2izA.mp4",
-            "path": "music_z/videos/ZIRROSIS  PRESOS DEL CAPITAL-xwm9eCQ2izA.mp4",
-            "size": 4.736735232
+            "path": "z/videos/ZIRROSIS  PRESOS DEL CAPITAL-xwm9eCQ2izA.mp4",
+            "size": 4.736735232,
+            "url": "https://github.com/circuitalmynds/music_z/blob/main/videos/ZIRROSIS  PRESOS DEL CAPITAL-xwm9eCQ2izA.mp4?raw=true"
         },
         {
             "name": "Tatsuro Yamashita - Funky Flushin' (1982)-kE71irRG9Aw.mp4",
-            "path": "music_z/videos/Tatsuro Yamashita - Funky Flushin' (1982)-kE71irRG9Aw.mp4",
-            "size": 5.021840384
+            "path": "z/videos/Tatsuro Yamashita - Funky Flushin' (1982)-kE71irRG9Aw.mp4",
+            "size": 5.021840384,
+            "url": "https://github.com/circuitalmynds/music_z/blob/main/videos/Tatsuro Yamashita - Funky Flushin' (1982)-kE71irRG9Aw.mp4?raw=true"
         },
         {
             "name": "Fotonovela-pWBtEccqMTU.mp4",
-            "path": "music_z/videos/Fotonovela-pWBtEccqMTU.mp4",
-            "size": 10.182589440000001
+            "path": "z/videos/Fotonovela-pWBtEccqMTU.mp4",
+            "size": 10.182589440000001,
+            "url": "https://github.com/circuitalmynds/music_z/blob/main/videos/Fotonovela-pWBtEccqMTU.mp4?raw=true"
         },
         {
             "name": "Ladrón de Amor - Conjunto Primavera-ZDgh_iPQ2zM.mp4",
-            "path": "music_z/videos/Ladrón de Amor - Conjunto Primavera-ZDgh_iPQ2zM.mp4",
-            "size": 11.110458368000002
+            "path": "z/videos/Ladrón de Amor - Conjunto Primavera-ZDgh_iPQ2zM.mp4",
+            "size": 11.110458368000002,
+            "url": "https://github.com/circuitalmynds/music_z/blob/main/videos/Ladrón de Amor - Conjunto Primavera-ZDgh_iPQ2zM.mp4?raw=true"
         },
         {
             "name": "P. Tchaikovsky - Pas de Deux ('The Nutcracker')-YR5USHu6D6U.mp4",
-            "path": "music_z/videos/P. Tchaikovsky - Pas de Deux ('The Nutcracker')-YR5USHu6D6U.mp4",
-            "size": 5.565430784
+            "path": "z/videos/P. Tchaikovsky - Pas de Deux ('The Nutcracker')-YR5USHu6D6U.mp4",
+            "size": 5.565430784,
+            "url": "https://github.com/circuitalmynds/music_z/blob/main/videos/P. Tchaikovsky - Pas de Deux ('The Nutcracker')-YR5USHu6D6U.mp4?raw=true"
         },
         {
             "name": "Barricada- Balas blancas-bkt19-VYSRg.mp4",
-            "path": "music_z/videos/Barricada- Balas blancas-bkt19-VYSRg.mp4",
-            "size": 23.432175616000002
+            "path": "z/videos/Barricada- Balas blancas-bkt19-VYSRg.mp4",
+            "size": 23.432175616000002,
+            "url": "https://github.com/circuitalmynds/music_z/blob/main/videos/Barricada- Balas blancas-bkt19-VYSRg.mp4?raw=true"
         },
         {
             "name": "Zoé - Bésame Mucho-CSELNSslBVk.mp4",
-            "path": "music_z/videos/Zoé - Bésame Mucho-CSELNSslBVk.mp4",
-            "size": 26.601995264000003
+            "path": "z/videos/Zoé - Bésame Mucho-CSELNSslBVk.mp4",
+            "size": 26.601995264000003,
+            "url": "https://github.com/circuitalmynds/music_z/blob/main/videos/Zoé - Bésame Mucho-CSELNSslBVk.mp4?raw=true"
         },
         {
             "name": "zz top - bad to  the bone-p6tvmzfyaT4.mp4",
-            "path": "music_z/videos/zz top - bad to  the bone-p6tvmzfyaT4.mp4",
-            "size": 10.509984768
+            "path": "z/videos/zz top - bad to  the bone-p6tvmzfyaT4.mp4",
+            "size": 10.509984768,
+            "url": "https://github.com/circuitalmynds/music_z/blob/main/videos/zz top - bad to  the bone-p6tvmzfyaT4.mp4?raw=true"
         },
         {
             "name": "LE DIFERENCE - MYSTERIA-nqoAb6SkTZw.mp4",
-            "path": "music_z/videos/LE DIFERENCE - MYSTERIA-nqoAb6SkTZw.mp4",
-            "size": 21.788386304000003
+            "path": "z/videos/LE DIFERENCE - MYSTERIA-nqoAb6SkTZw.mp4",
+            "size": 21.788386304000003,
+            "url": "https://github.com/circuitalmynds/music_z/blob/main/videos/LE DIFERENCE - MYSTERIA-nqoAb6SkTZw.mp4?raw=true"
         },
         {
             "name": "Zirrosis - El viciosillo-7nJVsvvqDlg.mp4",
-            "path": "music_z/videos/Zirrosis - El viciosillo-7nJVsvvqDlg.mp4",
-            "size": 9.332849664000001
+            "path": "z/videos/Zirrosis - El viciosillo-7nJVsvvqDlg.mp4",
+            "size": 9.332849664000001,
+            "url": "https://github.com/circuitalmynds/music_z/blob/main/videos/Zirrosis - El viciosillo-7nJVsvvqDlg.mp4?raw=true"
         },
         {
             "name": "Serrat _ Cada Loco Con Su Tema _ 1983 (Álbum Completo_Full)-wZTvYjLmVyk.mp4",
-            "path": "music_z/videos/Serrat _ Cada Loco Con Su Tema _ 1983 (Álbum Completo_Full)-wZTvYjLmVyk.mp4",
-            "size": 46.267267072
+            "path": "z/videos/Serrat _ Cada Loco Con Su Tema _ 1983 (Álbum Completo_Full)-wZTvYjLmVyk.mp4",
+            "size": 46.267267072,
+            "url": "https://github.com/circuitalmynds/music_z/blob/main/videos/Serrat _ Cada Loco Con Su Tema _ 1983 (Álbum Completo_Full)-wZTvYjLmVyk.mp4?raw=true"
         },
         {
             "name": "Aunque tú no lo sepas - Enrique Urquijo - Quique  Gonzalez - Cover by Lestat y Juan-0U26gGn2MsQ.mp4",
-            "path": "music_z/videos/Aunque tú no lo sepas - Enrique Urquijo - Quique  Gonzalez - Cover by Lestat y Juan-0U26gGn2MsQ.mp4",
-            "size": 2.1563473920000003
+            "path": "z/videos/Aunque tú no lo sepas - Enrique Urquijo - Quique  Gonzalez - Cover by Lestat y Juan-0U26gGn2MsQ.mp4",
+            "size": 2.1563473920000003,
+            "url": "https://github.com/circuitalmynds/music_z/blob/main/videos/Aunque tú no lo sepas - Enrique Urquijo - Quique  Gonzalez - Cover by Lestat y Juan-0U26gGn2MsQ.mp4?raw=true"
         },
         {
             "name": "João Gilberto - 32 - Você e Eu-mcJNnfRLMn4.mp4",
-            "path": "music_z/videos/João Gilberto - 32 - Você e Eu-mcJNnfRLMn4.mp4",
-            "size": 3.794091008
+            "path": "z/videos/João Gilberto - 32 - Você e Eu-mcJNnfRLMn4.mp4",
+            "size": 3.794091008,
+            "url": "https://github.com/circuitalmynds/music_z/blob/main/videos/João Gilberto - 32 - Você e Eu-mcJNnfRLMn4.mp4?raw=true"
         },
         {
             "name": "Los Destellos - Onsta la yerbita-f-_xgHGQJNQ.mp4",
-            "path": "music_z/videos/Los Destellos - Onsta la yerbita-f-_xgHGQJNQ.mp4",
-            "size": 13.736817664
+            "path": "z/videos/Los Destellos - Onsta la yerbita-f-_xgHGQJNQ.mp4",
+            "size": 13.736817664,
+            "url": "https://github.com/circuitalmynds/music_z/blob/main/videos/Los Destellos - Onsta la yerbita-f-_xgHGQJNQ.mp4?raw=true"
         },
         {
             "name": "Subsistencia - La Papa Liberada-eDw7QxWBw8M.mp4",
-            "path": "music_z/videos/Subsistencia - La Papa Liberada-eDw7QxWBw8M.mp4",
-            "size": 11.492336640000001
+            "path": "z/videos/Subsistencia - La Papa Liberada-eDw7QxWBw8M.mp4",
+            "size": 11.492336640000001,
+            "url": "https://github.com/circuitalmynds/music_z/blob/main/videos/Subsistencia - La Papa Liberada-eDw7QxWBw8M.mp4?raw=true"
         },
         {
             "name": "Il Cielo In Una Stanza - Mina _ Sub. Español-zTjwHYmOd2w.mp4",
-            "path": "music_z/videos/Il Cielo In Una Stanza - Mina _ Sub. Español-zTjwHYmOd2w.mp4",
-            "size": 7.72507136
+            "path": "z/videos/Il Cielo In Una Stanza - Mina _ Sub. Español-zTjwHYmOd2w.mp4",
+            "size": 7.72507136,
+            "url": "https://github.com/circuitalmynds/music_z/blob/main/videos/Il Cielo In Una Stanza - Mina _ Sub. Español-zTjwHYmOd2w.mp4?raw=true"
         },
         {
             "name": "Shine--wcX9OMXKQw.mp4",
-            "path": "music_z/videos/Shine--wcX9OMXKQw.mp4",
-            "size": 3.147840512
+            "path": "z/videos/Shine--wcX9OMXKQw.mp4",
+            "size": 3.147840512,
+            "url": "https://github.com/circuitalmynds/music_z/blob/main/videos/Shine--wcX9OMXKQw.mp4?raw=true"
         },
         {
             "name": "Secret Service — Do It (OFFICIAL VIDEO, 1984)-yVvp4eKolig.mp4",
-            "path": "music_z/videos/Secret Service — Do It (OFFICIAL VIDEO, 1984)-yVvp4eKolig.mp4",
-            "size": 13.67657984
+            "path": "z/videos/Secret Service — Do It (OFFICIAL VIDEO, 1984)-yVvp4eKolig.mp4",
+            "size": 13.67657984,
+            "url": "https://github.com/circuitalmynds/music_z/blob/main/videos/Secret Service — Do It (OFFICIAL VIDEO, 1984)-yVvp4eKolig.mp4?raw=true"
         },
         {
             "name": "Bluebird (B-Side)-fb9R_cvwKSU.mp4",
-            "path": "music_z/videos/Bluebird (B-Side)-fb9R_cvwKSU.mp4",
-            "size": 3.557849088
+            "path": "z/videos/Bluebird (B-Side)-fb9R_cvwKSU.mp4",
+            "size": 3.557849088,
+            "url": "https://github.com/circuitalmynds/music_z/blob/main/videos/Bluebird (B-Side)-fb9R_cvwKSU.mp4?raw=true"
         },
         {
             "name": "Secret Service — When the Night Closes In (TVRip, 1985)-oWlpkt3EjD8.mp4",
-            "path": "music_z/videos/Secret Service — When the Night Closes In (TVRip, 1985)-oWlpkt3EjD8.mp4",
-            "size": 20.566145024
+            "path": "z/videos/Secret Service — When the Night Closes In (TVRip, 1985)-oWlpkt3EjD8.mp4",
+            "size": 20.566145024,
+            "url": "https://github.com/circuitalmynds/music_z/blob/main/videos/Secret Service — When the Night Closes In (TVRip, 1985)-oWlpkt3EjD8.mp4?raw=true"
         },
         {
             "name": "The 5th Dimension   Age of Aquarius 1969-kjxSCAalsBE.mp4",
-            "path": "music_z/videos/The 5th Dimension   Age of Aquarius 1969-kjxSCAalsBE.mp4",
-            "size": 12.786148352000001
+            "path": "z/videos/The 5th Dimension   Age of Aquarius 1969-kjxSCAalsBE.mp4",
+            "size": 12.786148352000001,
+            "url": "https://github.com/circuitalmynds/music_z/blob/main/videos/The 5th Dimension   Age of Aquarius 1969-kjxSCAalsBE.mp4?raw=true"
         },
         {
             "name": "Asfalto - La generación perdida-zTGTooyhAmA.mp4",
-            "path": "music_z/videos/Asfalto - La generación perdida-zTGTooyhAmA.mp4",
-            "size": 26.45504
+            "path": "z/videos/Asfalto - La generación perdida-zTGTooyhAmA.mp4",
+            "size": 26.45504,
+            "url": "https://github.com/circuitalmynds/music_z/blob/main/videos/Asfalto - La generación perdida-zTGTooyhAmA.mp4?raw=true"
         },
         {
             "name": "Secret Service — Let Us Dance Just a Little Bit More (OFFICIAL VIDEO, 1985)-PiqNhmY3Wd0.mp4",
-            "path": "music_z/videos/Secret Service — Let Us Dance Just a Little Bit More (OFFICIAL VIDEO, 1985)-PiqNhmY3Wd0.mp4",
-            "size": 13.74106624
+            "path": "z/videos/Secret Service — Let Us Dance Just a Little Bit More (OFFICIAL VIDEO, 1985)-PiqNhmY3Wd0.mp4",
+            "size": 13.74106624,
+            "url": "https://github.com/circuitalmynds/music_z/blob/main/videos/Secret Service — Let Us Dance Just a Little Bit More (OFFICIAL VIDEO, 1985)-PiqNhmY3Wd0.mp4?raw=true"
         },
         {
             "name": "Attaque 77 - Hay Una Bomba En El Colegio (Con Letra)-FKy6RApTHug.mp4",
-            "path": "music_z/videos/Attaque 77 - Hay Una Bomba En El Colegio (Con Letra)-FKy6RApTHug.mp4",
-            "size": 5.774089216
+            "path": "z/videos/Attaque 77 - Hay Una Bomba En El Colegio (Con Letra)-FKy6RApTHug.mp4",
+            "size": 5.774089216,
+            "url": "https://github.com/circuitalmynds/music_z/blob/main/videos/Attaque 77 - Hay Una Bomba En El Colegio (Con Letra)-FKy6RApTHug.mp4?raw=true"
         },
         {
             "name": "Zirrosis   Eso que llaman politica-ZQ9zlZi35h4.mp4",
-            "path": "music_z/videos/Zirrosis   Eso que llaman politica-ZQ9zlZi35h4.mp4",
-            "size": 11.732212736000001
+            "path": "z/videos/Zirrosis   Eso que llaman politica-ZQ9zlZi35h4.mp4",
+            "size": 11.732212736000001,
+            "url": "https://github.com/circuitalmynds/music_z/blob/main/videos/Zirrosis   Eso que llaman politica-ZQ9zlZi35h4.mp4?raw=true"
         },
         {
             "name": "Lime - Guilty-gsX-aEXO2OA.mp4",
-            "path": "music_z/videos/Lime - Guilty-gsX-aEXO2OA.mp4",
-            "size": 17.219634176
+            "path": "z/videos/Lime - Guilty-gsX-aEXO2OA.mp4",
+            "size": 17.219634176,
+            "url": "https://github.com/circuitalmynds/music_z/blob/main/videos/Lime - Guilty-gsX-aEXO2OA.mp4?raw=true"
         },
         {
             "name": "Liszt, Hungarian Rhapsody No.6, Martha Argerich 1966-LhInwkq4nAw.mp4",
-            "path": "music_z/videos/Liszt, Hungarian Rhapsody No.6, Martha Argerich 1966-LhInwkq4nAw.mp4",
-            "size": 20.5213696
+            "path": "z/videos/Liszt, Hungarian Rhapsody No.6, Martha Argerich 1966-LhInwkq4nAw.mp4",
+            "size": 20.5213696,
+            "url": "https://github.com/circuitalmynds/music_z/blob/main/videos/Liszt, Hungarian Rhapsody No.6, Martha Argerich 1966-LhInwkq4nAw.mp4?raw=true"
         },
         {
             "name": "ALASKA Y DINARAMA - Perlas ensangrentadas-Rgmmo3IfNYQ.mp4",
-            "path": "music_z/videos/ALASKA Y DINARAMA - Perlas ensangrentadas-Rgmmo3IfNYQ.mp4",
-            "size": 10.232923136
+            "path": "z/videos/ALASKA Y DINARAMA - Perlas ensangrentadas-Rgmmo3IfNYQ.mp4",
+            "size": 10.232923136,
+            "url": "https://github.com/circuitalmynds/music_z/blob/main/videos/ALASKA Y DINARAMA - Perlas ensangrentadas-Rgmmo3IfNYQ.mp4?raw=true"
         },
         {
             "name": "I Think I Need a New Heart-8TAlvftvH4s.mp4",
-            "path": "music_z/videos/I Think I Need a New Heart-8TAlvftvH4s.mp4",
-            "size": 2.450141184
+            "path": "z/videos/I Think I Need a New Heart-8TAlvftvH4s.mp4",
+            "size": 2.450141184,
+            "url": "https://github.com/circuitalmynds/music_z/blob/main/videos/I Think I Need a New Heart-8TAlvftvH4s.mp4?raw=true"
         },
         {
             "name": "Laid Back - Uptimistic Music (Original Mix)-xJHK_55_aJ8.mp4",
-            "path": "music_z/videos/Laid Back - Uptimistic Music (Original Mix)-xJHK_55_aJ8.mp4",
-            "size": 7.999460352000001
+            "path": "z/videos/Laid Back - Uptimistic Music (Original Mix)-xJHK_55_aJ8.mp4",
+            "size": 7.999460352000001,
+            "url": "https://github.com/circuitalmynds/music_z/blob/main/videos/Laid Back - Uptimistic Music (Original Mix)-xJHK_55_aJ8.mp4?raw=true"
         },
         {
             "name": "Tempo Rubato -  Venanzio Rauzzini (1747-1810) _ Sonata-Duetto opus 12 nr.12 in D-eoDVTvCwEgY.mp4",
-            "path": "music_z/videos/Tempo Rubato -  Venanzio Rauzzini (1747-1810) _ Sonata-Duetto opus 12 nr.12 in D-eoDVTvCwEgY.mp4",
-            "size": 43.319486464
+            "path": "z/videos/Tempo Rubato -  Venanzio Rauzzini (1747-1810) _ Sonata-Duetto opus 12 nr.12 in D-eoDVTvCwEgY.mp4",
+            "size": 43.319486464,
+            "url": "https://github.com/circuitalmynds/music_z/blob/main/videos/Tempo Rubato -  Venanzio Rauzzini (1747-1810) _ Sonata-Duetto opus 12 nr.12 in D-eoDVTvCwEgY.mp4?raw=true"
         },
         {
             "name": "1930, I Got Rhythm, Send for Me, He's So Unusual, I Don't Want Your Kisses, Fred Rich Orch. HD 78rpm-s-Ey_7bBlYc.mp4",
-            "path": "music_z/videos/1930, I Got Rhythm, Send for Me, He's So Unusual, I Don't Want Your Kisses, Fred Rich Orch. HD 78rpm-s-Ey_7bBlYc.mp4",
-            "size": 48.044775424
+            "path": "z/videos/1930, I Got Rhythm, Send for Me, He's So Unusual, I Don't Want Your Kisses, Fred Rich Orch. HD 78rpm-s-Ey_7bBlYc.mp4",
+            "size": 48.044775424,
+            "url": "https://github.com/circuitalmynds/music_z/blob/main/videos/1930, I Got Rhythm, Send for Me, He's So Unusual, I Don't Want Your Kisses, Fred Rich Orch. HD 78rpm-s-Ey_7bBlYc.mp4?raw=true"
         },
         {
             "name": "Alton Ellis  why Birds follow spring subtitulado español-F70oXOOUv0I.mp4",
-            "path": "music_z/videos/Alton Ellis  why Birds follow spring subtitulado español-F70oXOOUv0I.mp4",
-            "size": 4.56497152
+            "path": "z/videos/Alton Ellis  why Birds follow spring subtitulado español-F70oXOOUv0I.mp4",
+            "size": 4.56497152,
+            "url": "https://github.com/circuitalmynds/music_z/blob/main/videos/Alton Ellis  why Birds follow spring subtitulado español-F70oXOOUv0I.mp4?raw=true"
         },
         {
             "name": "It Began in Afrika - The Chemical Brothers-7AnCApUC42E.mp4",
-            "path": "music_z/videos/It Began in Afrika - The Chemical Brothers-7AnCApUC42E.mp4",
-            "size": 13.514437632000002
+            "path": "z/videos/It Began in Afrika - The Chemical Brothers-7AnCApUC42E.mp4",
+            "size": 13.514437632000002,
+            "url": "https://github.com/circuitalmynds/music_z/blob/main/videos/It Began in Afrika - The Chemical Brothers-7AnCApUC42E.mp4?raw=true"
         },
         {
             "name": "Antonio Vega - Oceáno de Sol-Nw2my6ju9EM.mp4",
-            "path": "music_z/videos/Antonio Vega - Oceáno de Sol-Nw2my6ju9EM.mp4",
-            "size": 12.836857856
+            "path": "z/videos/Antonio Vega - Oceáno de Sol-Nw2my6ju9EM.mp4",
+            "size": 12.836857856,
+            "url": "https://github.com/circuitalmynds/music_z/blob/main/videos/Antonio Vega - Oceáno de Sol-Nw2my6ju9EM.mp4?raw=true"
         },
         {
             "name": "ZIRROSIS   VERGONZOSA IMPUNIDAD-63x7rveTdDo.mp4",
-            "path": "music_z/videos/ZIRROSIS   VERGONZOSA IMPUNIDAD-63x7rveTdDo.mp4",
-            "size": 4.2480332800000005
+            "path": "z/videos/ZIRROSIS   VERGONZOSA IMPUNIDAD-63x7rveTdDo.mp4",
+            "size": 4.2480332800000005,
+            "url": "https://github.com/circuitalmynds/music_z/blob/main/videos/ZIRROSIS   VERGONZOSA IMPUNIDAD-63x7rveTdDo.mp4?raw=true"
         },
         {
             "name": "Black Pumas - Colors (Official Live Session)-0G383538qzQ.mp4",
-            "path": "music_z/videos/Black Pumas - Colors (Official Live Session)-0G383538qzQ.mp4",
-            "size": 19.3522432
+            "path": "z/videos/Black Pumas - Colors (Official Live Session)-0G383538qzQ.mp4",
+            "size": 19.3522432,
+            "url": "https://github.com/circuitalmynds/music_z/blob/main/videos/Black Pumas - Colors (Official Live Session)-0G383538qzQ.mp4?raw=true"
         },
         {
             "name": "TELEX CLOCHES ET SIFFLETS-EkICI8ynQL4.mp4",
-            "path": "music_z/videos/TELEX CLOCHES ET SIFFLETS-EkICI8ynQL4.mp4",
-            "size": 9.569781760000001
+            "path": "z/videos/TELEX CLOCHES ET SIFFLETS-EkICI8ynQL4.mp4",
+            "size": 9.569781760000001,
+            "url": "https://github.com/circuitalmynds/music_z/blob/main/videos/TELEX CLOCHES ET SIFFLETS-EkICI8ynQL4.mp4?raw=true"
         },
         {
             "name": "ZIRROSIS  EXCREMENTO DEL BIENESTAR-SZ28o5Y0Kc4.mp4",
-            "path": "music_z/videos/ZIRROSIS  EXCREMENTO DEL BIENESTAR-SZ28o5Y0Kc4.mp4",
-            "size": 3.497711616
+            "path": "z/videos/ZIRROSIS  EXCREMENTO DEL BIENESTAR-SZ28o5Y0Kc4.mp4",
+            "size": 3.497711616,
+            "url": "https://github.com/circuitalmynds/music_z/blob/main/videos/ZIRROSIS  EXCREMENTO DEL BIENESTAR-SZ28o5Y0Kc4.mp4?raw=true"
         },
         {
             "name": "Telex - 04 - 1982 - Birds and Bees [full album]-mehWW60OICo.mp4",
-            "path": "music_z/videos/Telex - 04 - 1982 - Birds and Bees [full album]-mehWW60OICo.mp4",
-            "size": 48.592030720000004
+            "path": "z/videos/Telex - 04 - 1982 - Birds and Bees [full album]-mehWW60OICo.mp4",
+            "size": 48.592030720000004,
+            "url": "https://github.com/circuitalmynds/music_z/blob/main/videos/Telex - 04 - 1982 - Birds and Bees [full album]-mehWW60OICo.mp4?raw=true"
         },
         {
             "name": "Radio Futura - Corazon de Tiza (Video)-udWpPRra6L8.mp4",
-            "path": "music_z/videos/Radio Futura - Corazon de Tiza (Video)-udWpPRra6L8.mp4",
-            "size": 15.127133184000002
+            "path": "z/videos/Radio Futura - Corazon de Tiza (Video)-udWpPRra6L8.mp4",
+            "size": 15.127133184000002,
+            "url": "https://github.com/circuitalmynds/music_z/blob/main/videos/Radio Futura - Corazon de Tiza (Video)-udWpPRra6L8.mp4?raw=true"
         },
         {
             "name": "Secret Service — 'Night City' (OFFICIAL VIDEO, 1985)-jGg9J-Hi88U.mp4",
-            "path": "music_z/videos/Secret Service — 'Night City' (OFFICIAL VIDEO, 1985)-jGg9J-Hi88U.mp4",
-            "size": 13.319950336000002
+            "path": "z/videos/Secret Service — 'Night City' (OFFICIAL VIDEO, 1985)-jGg9J-Hi88U.mp4",
+            "size": 13.319950336000002,
+            "url": "https://github.com/circuitalmynds/music_z/blob/main/videos/Secret Service — 'Night City' (OFFICIAL VIDEO, 1985)-jGg9J-Hi88U.mp4?raw=true"
         },
         {
             "name": "ZIRROSIS  CLEMEN EL PUTERO-rf_9WChDn5E.mp4",
-            "path": "music_z/videos/ZIRROSIS  CLEMEN EL PUTERO-rf_9WChDn5E.mp4",
-            "size": 5.161993216
+            "path": "z/videos/ZIRROSIS  CLEMEN EL PUTERO-rf_9WChDn5E.mp4",
+            "size": 5.161993216,
+            "url": "https://github.com/circuitalmynds/music_z/blob/main/videos/ZIRROSIS  CLEMEN EL PUTERO-rf_9WChDn5E.mp4?raw=true"
         },
         {
             "name": "-My-Kind-of-Woman-OFFICIAL-VIDEO-wIuBcb2T55Q.mp4",
-            "path": "music_z/videos/-My-Kind-of-Woman-OFFICIAL-VIDEO-wIuBcb2T55Q.mp4",
-            "size": 11.476230144
+            "path": "z/videos/-My-Kind-of-Woman-OFFICIAL-VIDEO-wIuBcb2T55Q.mp4",
+            "size": 11.476230144,
+            "url": "https://github.com/circuitalmynds/music_z/blob/main/videos/-My-Kind-of-Woman-OFFICIAL-VIDEO-wIuBcb2T55Q.mp4?raw=true"
         },
         {
             "name": "Sing Me A Swing Song (And Let Me Dance)-6aPEI7iTZBU.mp4",
-            "path": "music_z/videos/Sing Me A Swing Song (And Let Me Dance)-6aPEI7iTZBU.mp4",
-            "size": 2.8801792
+            "path": "z/videos/Sing Me A Swing Song (And Let Me Dance)-6aPEI7iTZBU.mp4",
+            "size": 2.8801792,
+            "url": "https://github.com/circuitalmynds/music_z/blob/main/videos/Sing Me A Swing Song (And Let Me Dance)-6aPEI7iTZBU.mp4?raw=true"
         },
         {
             "name": "Giorgio Moroder & Donna Summer - Top of the Pops (1977)-0zhHnf-yTng.mp4",
-            "path": "music_z/videos/Giorgio Moroder & Donna Summer - Top of the Pops (1977)-0zhHnf-yTng.mp4",
-            "size": 31.266713600000003
+            "path": "z/videos/Giorgio Moroder & Donna Summer - Top of the Pops (1977)-0zhHnf-yTng.mp4",
+            "size": 31.266713600000003,
+            "url": "https://github.com/circuitalmynds/music_z/blob/main/videos/Giorgio Moroder & Donna Summer - Top of the Pops (1977)-0zhHnf-yTng.mp4?raw=true"
         },
         {
             "name": "Secret Service — L.A. Goodbye (OFFICIAL VIDEO, 1981)-XFz8lw4bKLw.mp4",
-            "path": "music_z/videos/Secret Service — L.A. Goodbye (OFFICIAL VIDEO, 1981)-XFz8lw4bKLw.mp4",
-            "size": 14.25051136
+            "path": "z/videos/Secret Service — L.A. Goodbye (OFFICIAL VIDEO, 1981)-XFz8lw4bKLw.mp4",
+            "size": 14.25051136,
+            "url": "https://github.com/circuitalmynds/music_z/blob/main/videos/Secret Service — L.A. Goodbye (OFFICIAL VIDEO, 1981)-XFz8lw4bKLw.mp4?raw=true"
         }
     ],
+    "ready_to_push": true,
     "total_size": 955.357773824
 }
